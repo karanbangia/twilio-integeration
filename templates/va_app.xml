@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Say>This is your Voice Assistant speaking!</Say>
+  <Connect>
+      <Stream url="wss:your.host:1314/socket" ></Stream>
+  </Connect>
+</Response>
+~                
